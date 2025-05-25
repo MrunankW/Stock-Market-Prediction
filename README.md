@@ -33,8 +33,8 @@ These features were used for both classification and regression models.
 
 ### 📊 Accuracy
 ```text
-Train Accuracy: 0.60 (example)
-Test Accuracy:  0.55 (example)
+Train Accuracy: 0.61
+Test Accuracy:  0.52
 ```
 📋 Sample Output
 | Actual | Predicted |
@@ -53,7 +53,7 @@ Test Accuracy:  0.55 (example)
 ### 📉 Evaluation Metric
 Root Mean Squared Error (RMSE) was used to assess performance:
 ```text
-RMSE: ~X.XX (example output)
+RMSE: ~93.12
 ```
 📋 Sample Output
 | Actual Close | Predicted Close |
